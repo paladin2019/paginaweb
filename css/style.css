@@ -1,0 +1,24 @@
+.youtube{
+	height: 100px;
+	width: 100px;
+}
+
+.botton{
+	padding: 0;
+}
+.botton li{
+	display: inline;
+}
+}
+.botton li a {
+	font-family: arial;
+	font-size: 11px;
+	text-decoration: none;
+	float: left;
+	padding: 10px;
+	background-color: #2175bc;
+	
+}
+.fondo{
+	background-color: #ffffcc;
+}
